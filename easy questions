@@ -1,0 +1,40 @@
+Here is a new set of easy questions recently published, covering
+
+Statistics
+Programming (General, Big Data, Python, R, SQL)
+Modeling
+Behavioral
+Culture Fit
+Problem-Solving
+Statistics:
+
+Prove that a random variable with a distribution on [0,1] (that is, the density function is equal to 0 outside [0, 1]) has an expectation always between 0 and 1. Prove that its variance is maximum and equal to 1/12 if and only if the distribution is uniform on [0, 1]. - Click here for more on this topic. 
+What is the Central Limit Theorem and why is it important? - Answer (or click here for more advanced material on this topic)
+What is sampling? How many sampling methods do you know?
+What is the difference between Type I vs Type II error? Answer
+What is linear regression? What do the terms P-value, coefficient, R-Squared value mean? What is the significance of each of these components? - Answer, Answer
+What are the assumptions required for linear regression? - There are four major assumptions: 1. There is a linear relationship between the dependent variables and the regressors, meaning the model you are creating actually fits the data, 2. The errors or residuals of the data are normally distributed and independent from each other, 3. There is minimal multicollinearity between explanatory variables, and 4. Homoscedasticity. This means the variance around the regression line is the same for all values of the predictor variable.
+What is a statistical interaction? - Answer
+What is selection bias?
+What is an example of a dataset with a non-Gaussian distribution? - Example
+What is the Binomial Probability Formula?
+
+
+R programming
+
+What are the different types of sorting algorithms available in R language?  -There are insertion, bubble, and selection sorting algorithms.
+What are the different data objects in R?
+What packages are you most familiar with? What do you like or dislike about them?
+How do you access the element in the 2nd column and 4th row of a matrix named M?
+What is the command used to store R objects in a file?
+What is the best way to use Hadoop and R together for analysis?
+How do you split a continuous variable into different groups/ranks in R?
+Write a function in R language to replace the missing value in a vector with the mean of that vector.
+SQL
+
+What is the purpose of the group functions in SQL? Give some examples of group functions.
+Group functions are necessary to get summary statistics of a dataset. COUNT, MAX, MIN, AVG, SUM, and DISTINCT are all group functions
+Tell me the difference between an inner join, left join/right join, and union. - Answer
+What does UNION do? What is the difference between UNION and UNION ALL?
+What is the difference between SQL and MySQL or SQL Server?
+If a table contains duplicate rows, does a query result display the duplicate values by default? How can you eliminate duplicate rows from a query result?
